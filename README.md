@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Diya Tahir!
 
-<!--
-**diyartahir/diyartahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Student**  
+I'm currently pursuing a degree in Cybersecurity, driven by curiosity and a passion for protecting digital spaces. My GitHub is where I explore, learn, and share projects related to security, privacy, and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Working On
+- Building foundational skills in network security, cryptography, and ethical hacking
+- Participating in university projects and hands-on labs
+- Exploring open-source resources and tools for real-world security challenges
+
+---
+
+## 🚀 Goals
+- Master the art of cyber defense and ethical hacking
+- Contribute to open-source security projects
+- Connect with fellow learners and professionals in the cybersecurity community
+
+---
+
+## 📫 Connect With Me
+Feel free to reach out for collaboration, advice, or just to chat about cybersecurity!
+
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier
