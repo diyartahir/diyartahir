@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diya Tahir!
+# 👋 Hi, I'm Diyar Tahir!
 
 🎓 **Cybersecurity Student**  
 I'm currently pursuing a degree in Cybersecurity, driven by curiosity and a passion for protecting digital spaces. My GitHub is where I explore, learn, and share projects related to security, privacy, and technology.
